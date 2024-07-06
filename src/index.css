@@ -92,4 +92,9 @@ button:focus-visible {
 .content {
   width: 300px;
 }
-
+.calculatora {
+  margin: 20px;
+  display: grid;
+  grid-template-columns: repeat(3, 50px);
+  grid-gap: 10px;
+}
